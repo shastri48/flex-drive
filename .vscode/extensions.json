@@ -1,0 +1,40 @@
+{
+  "recommendations": [
+    // Essential formatting and linting
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+
+    // TypeScript and React support
+    "ms-vscode.vscode-typescript-next",
+    "bradlc.vscode-tailwindcss",
+
+    // Next.js and React development
+    "ms-vscode.vscode-json",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+
+    // Testing support
+    "orta.vscode-jest",
+    "ms-vscode.test-adapter-converter",
+
+    // Git integration
+    "eamodio.gitlens",
+
+    // Code quality and productivity
+    "streetsidesoftware.code-spell-checker",
+    "ms-vscode.vscode-json",
+    "redhat.vscode-yaml",
+
+    // Optional but helpful
+    "ms-vscode.vscode-json",
+    "bradlc.vscode-tailwindcss",
+    "formulahendry.auto-close-tag",
+    "ms-vscode.vscode-typescript-next"
+  ],
+  "unwantedRecommendations": [
+    // Extensions that might conflict with our setup
+    "hookyqr.beautify",
+    "ms-vscode.vscode-typescript",
+    "esbenp.prettier-vscode-standard"
+  ]
+}
